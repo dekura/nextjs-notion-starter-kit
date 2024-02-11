@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: '3c63fcef-1a41-4de7-b34c-d15216a50609',
 
   // basic site info (required)
-  name: 'JoyG | Web3',
+  name: 'JoyG',
   domain: 'joyg.fun',
   author: 'JoyG Chen',
 
