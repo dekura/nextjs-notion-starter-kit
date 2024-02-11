@@ -14,12 +14,12 @@ export default siteConfig({
   author: 'JoyG Chen',
 
   // open graph metadata (optional)
-  description: 'JoyG | Web3 homepage',
+  description: 'JoyG | homepage',
 
   // social usernames (optional)
   twitter: 'dekura11',
-  github: 'dekura',
-  linkedin: 'dekura',
+  // github: 'dekura',
+  // linkedin: 'dekura',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
